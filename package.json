@@ -1,0 +1,8 @@
+{
+  "name": "axios-shots",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "axios": "0.21.1"
+  }
+}
