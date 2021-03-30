@@ -8,4 +8,7 @@ Axios experiments. Mostly meant as personal exploration, with low value for visi
 
 ## What it does
 5000 in the request below means that there will be a delay of 5 seconds before the server replies.  
-http://slowwly.robertomurray.co.uk/delay/5000/url/https://api.thecatapi.com/v1/images/search
+http://slowwly.robertomurray.co.uk/delay/5000/url/https://...
+
+## Notes
+- I use https://dog.ceo/api/breeds/image/random because it sets `Access-Control-Allow-Origin` to `*`
