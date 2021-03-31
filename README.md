@@ -1,6 +1,5 @@
 # axios-shots
 Axios experiments. Mostly meant as personal exploration, with low value for visitors.  
-**This is work in progress**.
 
 ## Get ready
 - run `npm install` to restore the packages (see `package.json`)
@@ -11,4 +10,4 @@ Axios experiments. Mostly meant as personal exploration, with low value for visi
 http://slowwly.robertomurray.co.uk/delay/5000/url/https://...
 
 ## Notes
-- I use https://dog.ceo/api/breeds/image/random because it sets `Access-Control-Allow-Origin` to `*`
+- I use https://dog.ceo/api/breeds/image/random because it sets `Access-Control-Allow-Origin` to `*` (which you see using `curl -i` or [Postman](https://www.postman.com/), for example).
